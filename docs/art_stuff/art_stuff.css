@@ -20,15 +20,17 @@
 }
 
 .card {
-    
-    height: auto;
-
-    object-fit: cover;
-    
     border: 5px solid #202020;
     border-radius: 10px;
     overflow: hidden;
     margin: 5px;
 
     background-color: #f0f0f0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+
+    object-fit: cover;
 }

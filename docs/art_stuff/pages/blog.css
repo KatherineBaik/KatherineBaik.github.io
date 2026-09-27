@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.blog-header{
+    text-align: center;
+}
+
+.blog-body{
+    text-align: center;
+    margin: 2rem;
+}
